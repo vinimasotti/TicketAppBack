@@ -41,7 +41,7 @@ group :development, :test do
 
   gem 'rack-cors'
 
-  gem 'rspec-rails', '~> 6.0'
+  gem 'rspec-rails', '~> 7.1'
 end
 
 
